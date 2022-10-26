@@ -2,9 +2,14 @@
     padding: 20px;
     border-left: 1px solid burlywood;
     border-right: 1px solid burlywood;
+    font-family: Arial;
+    width: 1280px;
+    margin-top: 0px;
+    background-color: beige;
 }
 header {
     border-bottom: 1px solid burlywood;
+    background-color: beige;
 }
 
 p {
@@ -41,6 +46,7 @@ img {
 footer {
     text-align: center;
     border-top: 1px solid burlywood;
+    background-color: beige;
 }
 
 
